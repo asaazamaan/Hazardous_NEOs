@@ -8,7 +8,7 @@ This project aims to predict whether a **Near-Earth Object (NEO)** is hazardous 
 ---
 
 ## **Project Workflow**
- **Data Importing and cleaning** →**Exploratory Data Analysis (EDA)** →**Data Preprocessing** **Model Training and Evaluation**
+ **Data Importing and cleaning** →**Exploratory Data Analysis (EDA)** →**Data Preprocessing** →**Model Training and Evaluation**
 
 ---
 
